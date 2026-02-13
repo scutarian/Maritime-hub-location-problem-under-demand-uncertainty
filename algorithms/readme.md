@@ -12,5 +12,5 @@ Please note that this document is **not** a standalone description of the work a
 
 **Citation (to be updated upon publication):**
 
-Butun, C., *et al.* (2025). *Liner shipping hub location under demand uncertainty: A possibilistic MILP and metaheuristic approach.* European Journal of Operational Research. (forthcoming)
+Butun, C., *et al.* (2025). *Liner shipping hub location under demand uncertainty: A possibilistic MILP and metaheuristic approach.* (forthcoming)
 
