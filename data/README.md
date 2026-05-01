@@ -1,4 +1,4 @@
-# Liner Shipping Hub Location Problem under Demand Uncertainty (LSHLRP-DU)
+# Maritime hub location problem under demand uncertainty (MHLRPU)
 ## Experiment Data Folder
 
 The **`data/`** directory contains the problem instances used in the computational experiments.  
@@ -33,7 +33,7 @@ Each subfolder corresponds to a specific data set **X**, and includes the follow
 
 If you use these data files or refer to this work, please cite:
 
-Butun, C., Petrovic, S., Muyldermans, L., *Liner Shipping Hub Location Problem under Demand Uncertainty* (Manuscript in review, 2025).
+Butun, C., Petrovic, S., Muyldermans, L., *Hub location–routing under demand uncertainty: A vertical integration perspective in maritime transportation* (Manuscript in review, 2026).
 
 
 # License
